@@ -8,6 +8,9 @@ You can either use the precompiled executable available in the [Releases section
 ```bash   
 dotnet publish "C:\path\to\LionsGate.csproj" -c Release -r win-x64 --self-contained false /p:PublishSingleFile=true
 ```
+### Credit
+https://github.com/KebsCS => found the manifest id from archive.
+
 ### TODO | Help Needed
 The version of 2XKO that the Riot Client installs is outdated because I don’t have access to the latest manifest URL. Since I don't have beta access, I'm currently using the last publicly known URL, which causes authentication issues as it cannot properly connect to the RCS API.
 
