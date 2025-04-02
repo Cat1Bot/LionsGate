@@ -3,7 +3,7 @@ Small C# tool that Grants early access to Riot's upcoming fighter game 2XKO (cod
 ### Usage
 Before running the application, ensure that you have the [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download) installed.
 
-You can either use the precompiled executable available in the Releases section or clone this repository and build it yourself using Visual Studio. To manually build the project, run the following command in the terminal:
+You can either use the precompiled executable available in the [Releases section](https://github.com/Cat1Bot/LionsGate/releases) or clone this repository and build it yourself using Visual Studio 2022. To build the project, run the following command in the terminal:
 ```bash   
 dotnet publish "C:\path\to\LionsGate.csproj" -c Release -r win-x64 --self-contained false /p:PublishSingleFile=true
 ```
