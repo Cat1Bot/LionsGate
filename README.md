@@ -1,5 +1,6 @@
 # LionsGate
 Small C# tool that Grants early access to Riot's upcoming fighter game 2XKO (codenamed Lion). Simply run the executable, and it will automatically inject the 2XKO patchline into the Riot Client. No need to manually open or close the Riot Client; the app handles everything for you.
+![image](https://github.com/user-attachments/assets/d7325594-c500-45e5-8714-3674c461aee4)
 ### Usage
 Before running the application, ensure that you have the [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download) installed.
 
